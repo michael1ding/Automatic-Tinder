@@ -1,3 +1,3 @@
 # Define Username and Password
-username = 'fallswatt2@gmail.com'
-password = 'Michael24'
+username = 'enter username'
+password = 'enter password'
